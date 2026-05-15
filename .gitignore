@@ -1,0 +1,2 @@
+venv/
+**/venv/ #não subirá se stiver dentro de algum diretório
